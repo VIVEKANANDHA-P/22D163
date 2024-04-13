@@ -1,4 +1,4 @@
-# Enrollment Ssytem
+# Enrollment System
 
 ## description
 The furnished Java code constitutes an Enrollment System, a simplified implementation for coping with students, publications, schools, and their enrollments in a relational database. Let's destroy down the code and offer a description:
